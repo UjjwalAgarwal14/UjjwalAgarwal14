@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Agarwal</h1>
 <h3 align="center">A Passionate Frontend developer from India 👨‍💻 | Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalagarwal14&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalagarwal14" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalagarwal14" alt="ujjwalagarwal14" /></a> </p>
 
