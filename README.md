@@ -12,9 +12,9 @@
 
 <h3> - 📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/ujjwal-agarwal-8b05011b5/">
-  <img align="left" alt="Ujjwal's Linkdein" width="28px" src="./svgs/linkedin.svg" />
+  <img align="left" alt="Ujjwal's Linkdein" width="28px" src="linkedin.svg" />
 </a>
-<a href="mailto:14ujjwal32@gmail.com"><img align="left" alt="Ujjwal's Gmail" width="28px" src="./svgs/gmail.svg" /></a>
+<a href="mailto:14ujjwal32@gmail.com"><img align="left" alt="Ujjwal's Gmail" width="28px" src="gmail.svg" /></a>
 <br/>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
