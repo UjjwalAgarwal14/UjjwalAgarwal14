@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, C.**
 
-<h3> - 📫 Lets Connect 🤝</h3>
+- 📫 Lets Connect 🤝
 <a href="https://www.linkedin.com/in/ujjwal-agarwal-8b05011b5/">
   <img align="left" alt="Ujjwal's Linkdein" width="28px" src="linkedin.svg" />
 </a>
